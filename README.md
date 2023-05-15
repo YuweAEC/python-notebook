@@ -9,7 +9,7 @@ This file will contain all my **python notebook** entries
 
 ## Title 
 
-Practice python notebook _learning_
+Practice jupiter-notebook with python _learning_
 
 ## Introduction
 

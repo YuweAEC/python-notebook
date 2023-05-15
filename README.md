@@ -13,6 +13,8 @@ Practice python notebook _learning_
 
 ## Introduction
 
+In this all my python notebook
+
 ## Authors
 
 - Yuvraj Singh

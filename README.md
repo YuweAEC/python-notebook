@@ -9,19 +9,19 @@ This file will contain all my **python notebook** entries
 
 ## Title 
 
-Practice jupiter-notebook with python _learning_
+Practice **jupiter-notebook** with python _learning_
 
 ## Introduction
 
-In this all my python notebook
+In this all my *python notebook*
 
 ## Authors
 
-- Yuvraj Singh
+- **Yuvraj Singh**
 
 ## Acknowledgements
 
-- Gaurav Singh
+- **Gaurav Singh**
 
 
 

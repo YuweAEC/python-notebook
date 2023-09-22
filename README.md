@@ -23,5 +23,3 @@ In this all my *python notebook*
 
 - **Gaurav Singh**
 
-
-

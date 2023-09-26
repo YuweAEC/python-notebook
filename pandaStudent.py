@@ -1,4 +1,6 @@
-import pandas as pd
+
+
+import pandas as pd 
 
 students = {
     'name': ['Alice', 'Bob', 'Carol', 'Dan', 'Eli', 'Fran', '\0'],
